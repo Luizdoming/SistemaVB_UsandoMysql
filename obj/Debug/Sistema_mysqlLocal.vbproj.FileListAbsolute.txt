@@ -1,0 +1,664 @@
+D:\Curso_VB.Net\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.frmestoque.resources
+D:\Curso_VB.Net\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.Resources.resources
+D:\Curso_VB.Net\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.vbproj.GenerateResource.cache
+D:\Curso_VB.Net\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.vbproj.CoreCompileInputs.cache
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\Sistema_mysqlLocal.exe.config
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\Sistema_mysqlLocal.exe
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\Sistema_mysqlLocal.pdb
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\Sistema_mysqlLocal.xml
+D:\Curso_VB.Net\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.exe
+D:\Curso_VB.Net\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.xml
+D:\Curso_VB.Net\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.pdb
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\MySql.Data.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\Google.Protobuf.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\ZstdNet.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\BouncyCastle.Crypto.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\Ubiety.Dns.Core.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\System.Memory.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\System.Buffers.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\K4os.Compression.LZ4.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\K4os.Hash.xxHash.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\MySql.Data.xml
+D:\Curso_VB.Net\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.exe.config
+D:\Curso_VB.Net\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.vbproj.CopyComplete
+D:\Curso_VB.Net\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.FrmCadastroProdutos.resources
+D:\Curso_VB.Net\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.frm_Munu.resources
+D:\Curso_VB.Net\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.Frm_login.resources
+D:\Curso_VB.Net\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.FrmUser.resources
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\Guna.UI2.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.frm_Movimentacao.resources
+D:\Curso_VB.Net\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.Frm_apresentacao.resources
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\EnvDTE.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\stdole.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\Microsoft.MSXML.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\bin\Debug\System.Numerics.Vectors.dll
+D:\Curso_VB.Net\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.frm_report.resources
+D:\Curso_VB.Net\Sistema_mysqlLocal\obj\Debug\RdlCompile.cache
+D:\Curso_VB.Net\Sistema_mysqlLocal\obj\Debug\RdlCompile.compiled
+D:\Curso_VB.Net\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.frm_linhas.resources
+D:\Curso_VB.Net\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.vbproj.AssemblyReference.cache
+G:\Meu Drive\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.vbproj.AssemblyReference.cache
+G:\Meu Drive\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.exe.config
+G:\Meu Drive\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.FrmCadastroProdutos.resources
+G:\Meu Drive\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.frmestoque.resources
+G:\Meu Drive\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.FrmUser.resources
+G:\Meu Drive\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.Frm_apresentacao.resources
+G:\Meu Drive\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.frm_linhas.resources
+G:\Meu Drive\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.Frm_login.resources
+G:\Meu Drive\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.frm_Movimentacao.resources
+G:\Meu Drive\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.frm_Munu.resources
+G:\Meu Drive\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.frm_report.resources
+G:\Meu Drive\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.vbproj.GenerateResource.cache
+G:\Meu Drive\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.exe
+G:\Meu Drive\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.xml
+G:\Meu Drive\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.pdb
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\Sistema_mysqlLocal.exe.config
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\Sistema_mysqlLocal.exe
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\Sistema_mysqlLocal.pdb
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\Sistema_mysqlLocal.xml
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\Guna.UI2.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\Microsoft.ReportViewer.Common.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\Microsoft.ReportViewer.Design.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\Microsoft.SqlServer.Types.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\MySql.Data.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\EnvDTE.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\Google.Protobuf.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\ZstdNet.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\BouncyCastle.Crypto.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\Ubiety.Dns.Core.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\stdole.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\System.Memory.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\System.Buffers.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\K4os.Compression.LZ4.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\K4os.Hash.xxHash.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\Microsoft.MSXML.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\System.Numerics.Vectors.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\MySql.Data.xml
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Meu Drive\Sistema_mysqlLocal\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+G:\Meu Drive\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.Resources.resources
+G:\Meu Drive\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.vbproj.CoreCompileInputs.cache
+G:\Meu Drive\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.vbproj.CopyComplete
+F:\Arquivos\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.vbproj.AssemblyReference.cache
+F:\Arquivos\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.exe.config
+F:\Arquivos\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.FrmCadastroProdutos.resources
+F:\Arquivos\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.frmestoque.resources
+F:\Arquivos\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.FrmUser.resources
+F:\Arquivos\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.Frm_apresentacao.resources
+F:\Arquivos\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.frm_linhas.resources
+F:\Arquivos\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.Frm_login.resources
+F:\Arquivos\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.frm_Movimentacao.resources
+F:\Arquivos\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.frm_Munu.resources
+F:\Arquivos\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.frm_report.resources
+F:\Arquivos\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.vbproj.GenerateResource.cache
+F:\Arquivos\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.exe
+F:\Arquivos\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.xml
+F:\Arquivos\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.pdb
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\Sistema_mysqlLocal.exe.config
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\Sistema_mysqlLocal.exe
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\Sistema_mysqlLocal.pdb
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\Sistema_mysqlLocal.xml
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\Guna.UI2.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\MySql.Data.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\EnvDTE.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\Google.Protobuf.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\ZstdNet.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\BouncyCastle.Crypto.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\Ubiety.Dns.Core.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\stdole.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\System.Memory.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\System.Buffers.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\K4os.Compression.LZ4.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\K4os.Hash.xxHash.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\Microsoft.MSXML.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\System.Numerics.Vectors.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\MySql.Data.xml
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Arquivos\Sistema_mysqlLocal\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Arquivos\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.Resources.resources
+F:\Arquivos\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.vbproj.CoreCompileInputs.cache
+F:\Arquivos\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.vbproj.CopyComplete
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\Sistema_mysqlLocal.exe.config
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\Sistema_mysqlLocal.exe
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\Sistema_mysqlLocal.pdb
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\Sistema_mysqlLocal.xml
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\Guna.UI2.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\EnvDTE.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\Google.Protobuf.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\ZstdNet.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\BouncyCastle.Crypto.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\Ubiety.Dns.Core.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\stdole.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\System.Memory.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\System.Buffers.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\K4os.Compression.LZ4.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\K4os.Hash.xxHash.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\Microsoft.MSXML.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\System.Numerics.Vectors.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Arquivos\Sistema_mysqlLocal\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Arquivos\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.exe.config
+D:\Arquivos\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.FrmCadastroProdutos.resources
+D:\Arquivos\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.frmestoque.resources
+D:\Arquivos\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.FrmUser.resources
+D:\Arquivos\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.Frm_apresentacao.resources
+D:\Arquivos\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.frm_linhas.resources
+D:\Arquivos\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.Frm_login.resources
+D:\Arquivos\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.frm_Movimentacao.resources
+D:\Arquivos\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.frm_Munu.resources
+D:\Arquivos\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.Resources.resources
+D:\Arquivos\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.vbproj.GenerateResource.cache
+D:\Arquivos\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.vbproj.CoreCompileInputs.cache
+D:\Arquivos\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.vbproj.CopyComplete
+D:\Arquivos\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.exe
+D:\Arquivos\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.xml
+D:\Arquivos\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.pdb
+D:\Arquivos\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.FrmRepor.resources
+D:\Arquivos\Sistema_mysqlLocal\obj\Debug\RdlCompile.cache
+D:\Arquivos\Sistema_mysqlLocal\obj\Debug\RdlCompile.compiled
+D:\Arquivos\Sistema_mysqlLocal\obj\Debug\Sistema_mysqlLocal.vbproj.AssemblyReference.cache
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\Sistema_mysqlLocal.exe.config
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\Sistema_mysqlLocal.exe
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\Sistema_mysqlLocal.pdb
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\Sistema_mysqlLocal.xml
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\Guna.UI2.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\EnvDTE.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\Google.Protobuf.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\ZstdNet.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\BouncyCastle.Crypto.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\Ubiety.Dns.Core.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\stdole.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\System.Memory.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\System.Buffers.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\K4os.Compression.LZ4.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\K4os.Hash.xxHash.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\Microsoft.MSXML.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\System.Numerics.Vectors.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.exe.config
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.FrmCadastroProdutos.resources
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.frmestoque.resources
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.FrmRepor.resources
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.FrmUser.resources
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.Frm_apresentacao.resources
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.frm_linhas.resources
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.Frm_login.resources
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.frm_Movimentacao.resources
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.frm_Munu.resources
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.Resources.resources
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.vbproj.GenerateResource.cache
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\obj\Debug\RdlCompile.cache
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\obj\Debug\RdlCompile.compiled
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.vbproj.CoreCompileInputs.cache
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.vbproj.CopyComplete
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.exe
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.xml
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.pdb
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.vbproj.AssemblyReference.cache
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\Sistema_mysqlLocal.exe.manifest
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\bin\Debug\Sistema_mysqlLocal.application
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.exe.manifest
+D:\Arquivos\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.application
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\Sistema_mysqlLocal.exe.config
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\Sistema_mysqlLocal.exe.manifest
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\Sistema_mysqlLocal.application
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\Sistema_mysqlLocal.exe
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\Sistema_mysqlLocal.pdb
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\Sistema_mysqlLocal.xml
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\Guna.UI2.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\EnvDTE.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\Google.Protobuf.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\ZstdNet.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\BouncyCastle.Crypto.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\Ubiety.Dns.Core.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\stdole.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\System.Memory.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\System.Buffers.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\K4os.Compression.LZ4.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\K4os.Hash.xxHash.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\Microsoft.MSXML.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\System.Numerics.Vectors.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\EnvDTE.xml
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sistema_mysqlLocal_VS_Studio\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.vbproj.AssemblyReference.cache
+D:\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.vbproj.SuggestedBindingRedirects.cache
+D:\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.exe.config
+D:\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.FrmCadastroProdutos.resources
+D:\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.frmestoque.resources
+D:\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.FrmRepor.resources
+D:\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.FrmUser.resources
+D:\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.Frm_apresentacao.resources
+D:\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.frm_linhas.resources
+D:\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.Frm_login.resources
+D:\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.frm_Movimentacao.resources
+D:\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.frm_Munu.resources
+D:\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.Resources.resources
+D:\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.vbproj.GenerateResource.cache
+D:\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.vbproj.CoreCompileInputs.cache
+D:\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.exe.manifest
+D:\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.application
+D:\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.vbproj.CopyComplete
+D:\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.exe
+D:\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.xml
+D:\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.pdb
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\Sistema_mysqlLocal.exe.config
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\Sistema_mysqlLocal.exe.manifest
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\Sistema_mysqlLocal.application
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\Sistema_mysqlLocal.exe
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\Sistema_mysqlLocal.pdb
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\Sistema_mysqlLocal.xml
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\Guna.UI2.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\EnvDTE.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\Google.Protobuf.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\ZstdNet.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\BouncyCastle.Crypto.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\Ubiety.Dns.Core.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\stdole.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\System.Memory.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\System.Buffers.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\K4os.Compression.LZ4.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\K4os.Hash.xxHash.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\Microsoft.MSXML.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\System.Numerics.Vectors.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.vbproj.AssemblyReference.cache
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.vbproj.SuggestedBindingRedirects.cache
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.exe.config
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.FrmCadastroProdutos.resources
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.frmestoque.resources
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.FrmRepor.resources
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.FrmUser.resources
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.Frm_apresentacao.resources
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.frm_linhas.resources
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.Frm_login.resources
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.frm_Movimentacao.resources
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.frm_Munu.resources
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.Resources.resources
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.vbproj.GenerateResource.cache
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.vbproj.CoreCompileInputs.cache
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.exe.manifest
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.application
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.vbproj.CopyComplete
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.exe
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.xml
+D:\System_Desenvolvidos\Sistema_mysqlLocal_VS_Studio\obj\Debug\Sistema_mysqlLocal.pdb
